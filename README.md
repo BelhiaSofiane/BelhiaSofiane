@@ -71,7 +71,7 @@
 - 🛒 [Cart List App](https://my-cart-list.netlify.app/)  
   `React`, `LocalStorage`, `Tailwind`, `Custom Hooks`
 
-- 🩺 [Medical Self-Diagnosis App](https://github.com/your-username/your-project)  
+- 🩺 [Medical Self-Diagnosis App](https://github.com/BelhiaSofianeCS50/TeleMed)  
   `React`, `Tailwind`, `Context API`, `Dynamic Form System`
 
 ---
