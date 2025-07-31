@@ -42,11 +42,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiane-mekki&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sofiane-mekki&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BelhiaSofianeCS50&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BelhiaSofianeCS50&theme=radical" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiane-mekki&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelhiaSofianeCS50&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
