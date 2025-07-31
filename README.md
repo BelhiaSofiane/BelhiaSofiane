@@ -62,11 +62,17 @@
 
 ### 🗂️ Highlighted Projects
 
-- 🩺 [Medical Self-Diagnosis App](https://github.com/your-username/your-project)  
-  `React`, `Tailwind`, `Context API`, `Dynamic Form System`
+- 🎨 [Portfolio React](https://github.com/BelhiaSofianeCS50/Portfolio-React)  
+  `React`, `Tailwind CSS`, `Framer Motion`, `Responsive Design`, `EmailJS`
+
+- 💰 [Budgeting App](https://github.com/BelhiaSofianeCS50/Budgeting-App)  
+  `React`, `Context API`, `Tailwind CSS`, `Expense Tracking`, `LocalStorage`
 
 - 🛒 [Cart List App](https://my-cart-list.netlify.app/)  
   `React`, `LocalStorage`, `Tailwind`, `Custom Hooks`
+
+- 🩺 [Medical Self-Diagnosis App](https://github.com/your-username/your-project)  
+  `React`, `Tailwind`, `Context API`, `Dynamic Form System`
 
 ---
 
