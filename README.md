@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelhiaSofianeCS50&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BelhiaSofiane&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BelhiaSofianeCS50&theme=radical" width="48%" />
 </p>
 <p align="center">
