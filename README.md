@@ -11,7 +11,7 @@
 - 🌱 I’m learning **Node.js, Express, PostgreSQL**
 - 👨‍⚕️ Still doing night shifts as a **registered nurse**
 - 💬 Ask me about **React, Tailwind CSS, GSAP, and Three.js**
-- 📫 Reach me at **sofiane15603@gmail.com**
+- 📫 Reach me at **belhiamekkisofiane@gmail.com**
 - ⚡ Fun fact: I love blending medicine and tech to build useful tools
 
 ---
