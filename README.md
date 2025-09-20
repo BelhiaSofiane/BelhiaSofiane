@@ -8,9 +8,9 @@
 ---
 
 - 🔭 I’m currently working on **a medical web app for early diagnosis**
-- 🌱 I’m learning **Node.js, Express, PostgreSQL**
+- 🌱 Planning to learn **Node.js, Express, PostgreSQL**
 - 👨‍⚕️ Still doing night shifts as a **registered nurse**
-- 💬 Ask me about **React, Tailwind CSS, GSAP, and Three.js**
+- 💬 Ask me about **JavaScript, React, Tailwind CSS**
 - 📫 Reach me at **belhiamekkisofiane@gmail.com**
 - ⚡ Fun fact: I love blending medicine and tech to build useful tools
 
