@@ -26,7 +26,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
 
-#### 🧠 Learning Backend & DB
+#### 🧠 Learning Backend & DB Work in Progess...
 
 
 #### 🔧 Tools
