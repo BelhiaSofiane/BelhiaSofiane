@@ -11,13 +11,13 @@
 
 ## Who I Am
 
-I'm a frontend developer turning fullstack — and a registered nurse still running night shifts.
+I'm a frontend developer turning fullstack and a registered nurse still running night shifts.
 
 That combination sounds odd until you realize that both jobs demand the same thing: **precision under pressure, and systems that don't fail when it counts.**
 
 I don't just build interfaces. I build tools people actually need — a booking platform for Umrah pilgrims, a medical self-diagnosis app, productivity tools born from real frustrations. My background in healthcare means I think about the human on the other side of the screen before I write a single line.
 
-Right now I'm deep in **React / Next.js + Supabase** — building full systems: auth, RBAC, real-time data, multi-role dashboards. The "learning backend" phase is behind me.
+Right now I'm deep in **React / Next.js + Supabase** building full systems: auth, RBAC, real-time data, multi-role dashboards. The "learning backend" phase is behind me.
 
 <br/>
 
@@ -69,8 +69,8 @@ Expense tracking with real state management — no gimmicks, just clean financia
 `React` · `Context API` · `LocalStorage` · `Tailwind`
 
 ### [💫 Hybride emotion Dz](https://hybridemotiondz.netlify.app/)
-Smart shopping list with persistent state and custom hooks.  
-`React` · `Custom Hooks` · `LocalStorage` · `Tailwind`
+Analyse de sentiments et hybridité linguistique pour le marché algérien — Darija, Français et Arabe.  
+`React` · `Custom Hooks` · `OpenAi Api` 
 
 ### [🎨 Portfolio](https://github.com/BelhiaSofiane/Portfolio-React)
 Built with motion and personality. Because a developer's portfolio should feel like the developer.  
