@@ -60,7 +60,7 @@ Right now I'm deep in **React / Next.js + Supabase** — building full systems: 
 ### [🕋 Umrah Booking Platform](https://github.com/BelhiaSofiane)
 A full travel agency management system — pilgrim CRM, multi-role staff access, package builder, and real-time dashboards. Built with **Next.js, Supabase, Row-Level Security, and RBAC** across 5+ staff roles. This one's the serious one.
 
-### [🩺 TeleMed — Medical Self-Diagnosis App](https://github.com/BelhiaSofiane/TeleMed)
+### [🩺 TeleMed — Medical Self-Diagnosis App](https://github.com/BelhiaSofiane/MediGuide)
 A dynamic symptom-to-diagnosis system. Built because patients deserve better than a Google search spiral.  
 `React` · `Context API` · `Tailwind` · `Dynamic Form Engine`
 
@@ -68,7 +68,7 @@ A dynamic symptom-to-diagnosis system. Built because patients deserve better tha
 Expense tracking with real state management — no gimmicks, just clean financial logic.  
 `React` · `Context API` · `LocalStorage` · `Tailwind`
 
-### [🛒 Cart List App](https://my-cart-list.netlify.app/)
+### [💫 Hybride emotion Dz](https://hybridemotiondz.netlify.app/)
 Smart shopping list with persistent state and custom hooks.  
 `React` · `Custom Hooks` · `LocalStorage` · `Tailwind`
 
