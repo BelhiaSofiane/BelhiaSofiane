@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1200&color=00BFFF&center=true&width=500&lines=I+debug+code+by+day.+I+debug+people+by+night.;Fullstack+dev+with+a+stethoscope+in+the+drawer.;Building+real+software+for+real+problems." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Sofiane Mekki</h1>
+<h1 align="center">Sofiane Belhia</h1>
 <h3 align="center">Fullstack Developer &nbsp;·&nbsp; Registered Nurse &nbsp;·&nbsp; Builder of Things That Matter</h3>
 
 <br/>
